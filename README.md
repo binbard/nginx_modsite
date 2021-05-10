@@ -5,7 +5,7 @@ nginx site enable disable script for ease of use
 
 ### USAGE:
 
-● `sudo -O /usr/bin/ngsite wget https://raw.githubusercontent.com/harshitjawla/nginx_modsite/main/ngsite`
+● `sudo wget -O /usr/bin/ngsite https://raw.githubusercontent.com/harshitjawla/nginx_modsite/main/ngsite`
 
 ● `sudo chmod +x /usr/bin/ngsite`
 
