@@ -4,7 +4,12 @@ nginx site enable disable script for ease of use
 ---
 
 ### USAGE:
-#### Just create this script /usr/bin/ngsite and make it executable.
+
+● `sudo -O /usr/bin/ngsite wget https://raw.githubusercontent.com/harshitjawla/nginx_modsite/main/ngsite`
+
+● `sudo chmod +x /usr/bin/ngsite`
+
+● `sudo ngsite -h`
 
 ---
 
